@@ -1,0 +1,153 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+
+        "identifier": "1",
+        "name": "Criteria A",
+        "publisher": "Emoticonas",
+        "tray_image_file": "ic_iconcriteria.png",
+        "image_data_version":"1",
+        "avoid_cache":false,
+        "publisher_email":"info@emoticonas.top",
+        "publisher_website": "https://emoticonas.top",
+        "privacy_policy_website": "https://emoticonas.top/politicas-de-privacidad/",
+        "license_agreement_website": "https://emoticonas.top/politicas-de-privacidad/",
+        "stickers": [
+          {
+            "image_file": "crit01.webp",
+            "emojis": ["☕","🙂"]
+          },
+          {
+            "image_file": "crit02.webp",
+            "emojis": ["😄","😀"]
+          },
+          {
+            "image_file": "crit03.webp",
+            "emojis": ["😆","😂"]
+          },
+          {
+            "image_file": "crit04.webp",
+            "emojis": ["😩","😰"]
+          },
+          {
+            "image_file": "crit05.webp",
+            "emojis": ["😭","💧"]
+          },
+          {
+            "image_file": "crit06.webp",
+            "emojis": ["😍","♥"]
+          },
+          {
+            "image_file": "crit07.webp",
+            "emojis": ["💔","👎"]
+          },
+          {
+            "image_file": "crit08.webp",
+            "emojis": ["😍","💑"]
+          },
+          {
+            "image_file": "crit09.webp",
+            "emojis": ["😘","🍪"]
+          },
+          {
+            "image_file": "crit10.webp",
+            "emojis": ["🤔","😐"]
+          },
+          {
+            "image_file": "crit11.webp",
+            "emojis": ["😱","😵"]
+          },
+          {
+            "image_file": "crit12.webp",
+            "emojis": ["😡","😠"]
+          },
+          {
+            "image_file": "crit13.webp",
+            "emojis": ["❓","🤔"]
+          },
+          {
+            "image_file": "crit14.webp",
+            "emojis": ["🌈","😜"]
+          },
+          {
+            "image_file": "crit15.webp",
+            "emojis": ["💻","😩"]
+          }
+        ]
+    },
+    {
+          "identifier": "2",
+          "name": "Criteria B",
+          "publisher": "Emoticonas",
+          "tray_image_file": "ic_iconcriteria.png",
+          "image_data_version":"1",
+          "avoid_cache":false,
+          "publisher_email":"info@emoticonas.top",
+          "publisher_website": "https://emoticonas.top",
+          "privacy_policy_website": "https://emoticonas.top/politicas-de-privacidad/",
+          "license_agreement_website": "https://emoticonas.top/politicas-de-privacidad/",
+          "stickers": [
+            {
+              "image_file": "crit16.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "crit17.webp",
+              "emojis": ["😄","😀"]
+            },
+            {
+              "image_file": "crit18.webp",
+              "emojis": ["😆","😂"]
+            },
+            {
+              "image_file": "crit19.webp",
+              "emojis": ["😩","😰"]
+            },
+            {
+              "image_file": "crit20.webp",
+              "emojis": ["😭","💧"]
+            },
+            {
+              "image_file": "crit21.webp",
+              "emojis": ["😍","♥"]
+            },
+            {
+              "image_file": "crit22.webp",
+              "emojis": ["💔","👎"]
+            },
+            {
+              "image_file": "crit23.webp",
+              "emojis": ["😍","💑"]
+            },
+            {
+              "image_file": "crit24.webp",
+              "emojis": ["😘","🍪"]
+            },
+            {
+              "image_file": "crit25.webp",
+              "emojis": ["🤔","😐"]
+            },
+            {
+              "image_file": "crit26.webp",
+              "emojis": ["😱","😵"]
+            },
+            {
+              "image_file": "crit27.webp",
+              "emojis": ["😡","😠"]
+            },
+            {
+              "image_file": "crit28.webp",
+              "emojis": ["❓","🤔"]
+            },
+            {
+              "image_file": "crit29.webp",
+              "emojis": ["🌈","😜"]
+            }
+
+
+              ]
+         }
+  ]
+}
